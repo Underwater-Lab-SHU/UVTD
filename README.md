@@ -6,3 +6,5 @@ This UVTD dataset is used only for academic purposes. The re-distribution of thi
 Baidu Cloud Link:
 链接：https://pan.baidu.com/s/1RF3b0Ch_MgK-l_4YELOIAg?pwd=UVTD 
 提取码：UVTD 
+
+If you would like to use this dataset, please contact zywang_power@163.com
